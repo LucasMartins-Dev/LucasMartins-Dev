@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+ <a href="https://www.linkedin.com/in/lucas-martinsms/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+    
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasmartins-dev&count_private=true&show_icons=true" alt="My github stats">
 
 <!--
 **LucasMartins-Dev/LucasMartins-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
