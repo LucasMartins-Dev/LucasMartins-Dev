@@ -22,8 +22,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-</div>
-  <div><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasmartins-dev&count_private=true&show_icons=true" alt="My github stats">
+</div></br></br>
+  <div><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasmartins-dev&count_private=true&show_icons=true" alt="My github stats">
 
 <!--
 **LucasMartins-Dev/LucasMartins-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
