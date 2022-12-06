@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  /></a></br></br>
     
  My name is Lucas Martins.</br>
- I'm Software Developer from Brazil.
+ I'm Software Developer in Brazil.
     
   ### Languages and Tools:
 
